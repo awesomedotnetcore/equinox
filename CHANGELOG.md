@@ -10,6 +10,9 @@ The `Unreleased` section name is replaced by the expected version of next releas
 
 ### Added
 ### Changed
+
+- `Equinox.Tool`: Switched `IndexingMode` to `Automatic=false,IndexingMode=None`m remove `DefaultTimeToLive` from `aux` collections [#134](https://github.com/jet/equinox/pull/134)
+
 ### Removed
 ### Fixed
 
